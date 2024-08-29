@@ -1,0 +1,200 @@
+/* .app {
+  background-color: #f0f8ff;
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.form input,
+.form select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.form button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.form button:hover {
+  background-color: #45a049;
+}
+
+.filter {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.user-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.user-card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.user-card h3 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.user-card p {
+  color: #555;
+  margin: 5px 0;
+}
+
+.user-card button {
+  padding: 8px 15px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.user-card button:nth-child(1) {
+  background-color: #2196f3;
+  color: white;
+}
+
+.user-card button:nth-child(1):hover {
+  background-color: #0b7dda;
+}
+
+.user-card button:nth-child(2) {
+  background-color: #f44336;
+  color: white;
+}
+
+.user-card button:nth-child(2):hover {
+  background-color: #e41f1f;
+} */
+.app {
+  background-color: #f0f8ff;
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.form input,
+.form select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.form button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.form button:hover {
+  background-color: #45a049;
+}
+
+.filter {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.user-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.user-card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.user-card h3 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.user-card p {
+  color: #555;
+  margin: 5px 0;
+}
+
+.user-card button {
+  padding: 8px 15px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.user-card button:nth-child(1) {
+  background-color: #2196f3;
+  color: white;
+}
+
+.user-card button:nth-child(1):hover {
+  background-color: #0b7dda;
+}
+
+.user-card button:nth-child(2) {
+  background-color: #f44336;
+  color: white;
+}
+
+.user-card button:nth-child(2):hover {
+  background-color: #e41f1f;
+}
